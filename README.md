@@ -3,4 +3,7 @@
 
 **Este desafío se centra principalmente en HTML y CSS. Se incluye un poquito de JS para alternar la navegación móvil.**
 
+**Link del sitio activo:**
+[LoopStudios](http://https://leonardo291024.github.io/landing-page-loopsStudios/ "LoopStudios")
+
 ![Portada](./images/loopsStudios.jpg);

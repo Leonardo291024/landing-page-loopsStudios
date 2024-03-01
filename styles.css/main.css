@@ -21,7 +21,7 @@
 }
 
 header{
-    background-image: url("/images/mobile/image-hero.jpg");
+    background-image: url("./images/mobile/image-hero.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -125,7 +125,7 @@ main .seccion1{
 }
 
 main .seccion1 .container-image-seccion1{
-    background-image: url("/images/mobile/image-interactive.jpg");
+    background-image: url("../images/mobile/image-interactive.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -199,35 +199,35 @@ main .seccion1 .information p{
 }
 
 .seccion2 div .deepEarth{
-    background-image: url(/images/mobile/image-deep-earth.jpg);
+    background-image: url(../images/mobile/image-deep-earth.jpg);
 }
 
 .seccion2 div .nightAracade{
-    background-image: url(/images/mobile/image-night-arcade.jpg);
+    background-image: url(../images/mobile/image-night-arcade.jpg);
 }
 
 .seccion2 div .soccerTeamVr{
-    background-image: url(/images/mobile/image-soccer-team.jpg);
+    background-image: url(../images/mobile/image-soccer-team.jpg);
 }
 
 .seccion2 div .theGrid{
-    background-image: url(/images/mobile/image-grid.jpg);
+    background-image: url(../images/mobile/image-grid.jpg);
 }
 
 .seccion2 div .fromUp{
-    background-image: url(/images/mobile/image-from-above.jpg);
+    background-image: url(../images/mobile/image-from-above.jpg);
 }
 
 .seccion2 div .pocket{
-    background-image: url(/images/mobile/image-pocket-borealis.jpg);
+    background-image: url(../images/mobile/image-pocket-borealis.jpg);
 }
 
 .seccion2 div .curiosity{
-    background-image: url(/images/mobile/image-curiosity.jpg);
+    background-image: url(../images/mobile/image-curiosity.jpg);
 }
 
 .seccion2 div .fisheye{
-    background-image: url(/images/mobile/image-fisheye.jpg);
+    background-image: url(../images/mobile/image-fisheye.jpg);
 }
 
 .seccion2 .container-button{
@@ -299,7 +299,7 @@ footer p{
     }
 
     header{
-        background-image: url(/images/desktop/image-hero.jpg);
+        background-image: url(../images/desktop/image-hero.jpg);
         padding: 20px 70px;
     }
 
@@ -357,7 +357,7 @@ footer p{
     }
 
     main .seccion1 .container-image-seccion1{
-        background-image: url("/images/desktop/image-interactive.jpg");
+        background-image: url("../images/desktop/image-interactive.jpg");
         height: 330px;
     }
 
@@ -392,35 +392,35 @@ footer p{
     }
 
     .seccion2 div .deepEarth{
-        background-image: url(/images/desktop/image-deep-earth.jpg);
+        background-image: url(../images/desktop/image-deep-earth.jpg);
     }
     
     .seccion2 div .nightAracade{
-        background-image: url(/images/desktop/image-night-arcade.jpg);
+        background-image: url(../images/desktop/image-night-arcade.jpg);
     }
     
     .seccion2 div .soccerTeamVr{
-        background-image: url(/images/desktop/image-soccer-team.jpg);
+        background-image: url(../images/desktop/image-soccer-team.jpg);
     }
     
     .seccion2 div .theGrid{
-        background-image: url(/images/desktop/image-grid.jpg);
+        background-image: url(../images/desktop/image-grid.jpg);
     }
     
     .seccion2 div .fromUp{
-        background-image: url(/images/desktop/image-from-above.jpg);
+        background-image: url(../images/desktop/image-from-above.jpg);
     }
     
     .seccion2 div .pocket{
-        background-image: url(/images/desktop/image-pocket-borealis.jpg);
+        background-image: url(../images/desktop/image-pocket-borealis.jpg);
     }
     
     .seccion2 div .curiosity{
-        background-image: url(/images/desktop/image-curiosity.jpg);
+        background-image: url(../images/desktop/image-curiosity.jpg);
     }
     
     .seccion2 div .fisheye{
-        background-image: url(/images/desktop/image-fisheye.jpg);
+        background-image: url(../images/desktop/image-fisheye.jpg);
     }
 
     .seccion2 .container-button button{
